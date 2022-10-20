@@ -1,7 +1,7 @@
 - 👋 Hi, I’m G'anijonov Sarvarbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=27px>
 - 👀 I’m interested in programming, solving problems(act. maths problems), learning foreign languages...
 - 🌱 I’m currently learning Web programing, Python, English language ...
-- ✌️ How to reach me: <br>
+- 👇 How to reach me: <br>
 - 👉 [Telegram](https://t.me/GanijonovSarvarbek)
 - 👉 [My Channel](https://t.me/Sarvarbeks_blog)
 - 👉 [Facebook](https://www.facebook.com/GanijonovSarvarbek)
